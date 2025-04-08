@@ -1,0 +1,122 @@
+.header{ 
+    height: 100px; 
+    background-color: rgb(0, 0, 0); 
+    } 
+    .wrapper{ 
+    overflow: hidden; 
+    } 
+    .blog{ 
+    float: left; 
+    width: 70%; 
+    height: 150px; 
+    background-color: rgb(30, 255, 0); 
+    } 
+    .contact{ 
+    float: right; 
+    width: 30%; 
+    height: 150px; 
+    background-color: blue; 
+    } 
+    .container{
+        overflow: hidden;
+
+    }
+
+    .item1{
+        float: left;
+       height: 120px;
+       width: 33.33%;
+       background-color: rgb(255, 38, 0);
+
+    }
+    .item2{
+        float: left;
+        height: 100px;
+        width: 33.33%;
+        background-color: rgb(24, 8, 255);
+
+    }
+
+    .item3{
+        float: left;
+        height: 100px;
+        width: 33.33%;
+        background-color: rgb(255, 0, 170);
+
+    }
+
+    .box{
+        overflow: hidden;
+    }
+    .item0{
+        float: left;
+        height: 200px;
+        width: 25%;
+        background-color: rgb(25, 0, 255);
+
+
+    }
+    .item01{
+        float: left;
+        height: 200px;
+        width: 25%;
+        background-color: rgb(255, 208, 0);
+
+        
+    }
+    .item02{
+        float: left;
+        height: 200px;
+        width: 25%;
+        background-color: rgb(0, 225, 255);
+
+        
+    }
+    .item03{
+        float: left;
+        height: 200px;
+        width:25%;
+        background-color: rgb(55, 0, 255);
+    }
+
+  .box5{
+    overflow: hidden;
+  }
+
+  .item001{
+    float: left;
+    height: 200px;
+    width:20%;
+    background-color: rgb(255, 238, 0);
+}
+
+.item002{
+    float: left;
+    height: 200px;
+    width:20%;
+    background-color: rgb(255, 0, 0);
+}
+.item003{
+    float: left;
+    height: 200px;
+    width:20%;
+    background-color: rgb(255, 0, 140);
+}
+.item004{
+    float: left;
+    height: 200px;
+    width:20%;
+    background-color: rgb(21, 255, 0);
+}
+.item005{
+    float: left;
+    height: 200px;
+    width:20%;
+    background-color: rgb(0, 255, 157);
+}
+
+
+    .footer { 
+    height: 100px; 
+    background-color: black; 
+    }
